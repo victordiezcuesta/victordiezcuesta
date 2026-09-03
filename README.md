@@ -2,25 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=V%C3%ADctor%20D%C3%ADez%20Cuesta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Programmer%20%7C%20%C3%89cole%2042%20Madrid&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-# VÍCTOR DÍEZ CUESTA
-
-### `Programmer` · `École 42 Madrid`
-
 **C/C++ · Systems · Graphics · Full Stack**
-
-<br/>
 
 <div align="center">
 
-<a href="https://github.com/Victordc239">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:victordiezcuesta@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/victor-diez-cuesta/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<a href="https://github.com/Victordc239" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=victordiezcuesta@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/victor-diez-cuesta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"></a>
 
 </div>
 
@@ -69,19 +57,13 @@ My Common Core journey has taken me from **C and Unix fundamentals to C++, netwo
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind&theme=dark" />
 
-<br/><br/>
-
 ### ⚙️ Systems & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,cmake&theme=dark" />
 
-<br/><br/>
-
 ### 🎮 Graphics
 
-<img src="https://skillicons.dev/icons?i=opengl&theme=dark" />
-
-</div>
+<img src="https://cdn.simpleicons.org/opengl/FFFFFF" height="60" alt="OpenGL"/>
 
 <br/>
 
@@ -94,6 +76,8 @@ My Common Core journey has taken me from **C and Unix fundamentals to C++, netwo
 | **Graphics** | OpenGL · GLSL · GLFW · GLAD |
 | **Infrastructure** | Docker · Docker Compose · Nginx |
 | **Version Control** | Git · GitHub |
+
+</div>
 
 ---
 
