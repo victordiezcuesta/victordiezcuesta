@@ -10,17 +10,20 @@
 
 <br/>
 
+<div align="center">
+
 <a href="https://github.com/Victordc239">
-<img src="https://img.shields.io/badge/GitHub-Victordc239-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-**<a href="mailto:victordiezcuesta@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:victordiezcuesta@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
 <a href="https://www.linkedin.com/in/victor-diez-cuesta/">
-<img src="https://img.shields.io/badge/LinkedIn-V%C3%ADctor%20D%C3%ADez%20Cuesta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>**
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
 
 </div>
 
