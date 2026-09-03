@@ -299,9 +299,8 @@ Configuring systems, services, containers and application infrastructure.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Victordc239&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=2563eb" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victordc239&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=ffffff" height="170"/>
+<img src="./profile/stats.svg" height="170" alt="GitHub Stats"/> 
+<img src="./profile/top-langs.svg" height="170" alt="Top Languages"/>
 
 <br/><br/>
 
