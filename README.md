@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Victordc239" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub"></a>
+<a href="https://github.com/victordiezcuesta" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=victordiezcuesta@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/victor-diez-cuesta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"></a>
 
@@ -303,7 +303,7 @@ Configuring systems, services, containers and application infrastructure.
 <br/><br/>
 <img src="./profile/stats.svg" height="170" alt="GitHub Stats"/> 
 <br/><br/>
-<img src="https://streak-stats.demolab.com?user=Victordc239&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=victordiezcuesta&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
