@@ -63,7 +63,7 @@ My Common Core journey has taken me from **C and Unix fundamentals to C++, netwo
 
 ### 🎮 Graphics
 
-<img src="https://cdn.simpleicons.org/opengl/FFFFFF" height="60" alt="OpenGL"/>
+<img src="https://skillicons.dev/icons?i=opengl&theme=dark" height="60" alt="OpenGL"/>
 
 <br/>
 
