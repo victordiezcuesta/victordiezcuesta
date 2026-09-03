@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=V%C3%ADctor%20D%C3%ADez%20Cuesta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Programmer%20%7C%20%C3%89cole%2042%20Madrid&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=220&section=header&text=V%C3%ADctor%20D%C3%ADez%20Cuesta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Programmer%20%7C%20%C3%89cole%2042%20Madrid&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 **C/C++ · Systems · Graphics · Full Stack**
 
@@ -298,15 +298,16 @@ Configuring systems, services, containers and application infrastructure.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Victordc239&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Victordc239&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=2563eb" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victordc239&layout=compact&hide_border=true&theme=github_dark" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victordc239&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=ffffff" height="170"/>
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Victordc239&theme=github-dark-blue&hide_border=true" />
 
 </div>
+
 
 ---
 
@@ -359,20 +360,8 @@ I value **curiosity, problem solving, clean code and continuous learning**.
 
 <div align="center">
 
-## 💻 Keep Building. Keep Learning.
-
-<br/>
-
-<a href="https://github.com/Victordc239">
-<img src="https://img.shields.io/badge/GitHub-Victordc239-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<br/><br/>
-
 Thanks for visiting my profile!
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:2563eb,100:0f172a&height=140&section=footer" width="100%"/>
 
 </div>
