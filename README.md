@@ -13,9 +13,14 @@
 <a href="https://github.com/Victordc239">
 <img src="https://img.shields.io/badge/GitHub-Victordc239-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-<a href="https://github.com/Victordc239?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-334155?style=for-the-badge&logo=github" alt="Repositories"/>
+
+**<a href="mailto:victordiezcuesta@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
+<a href="https://www.linkedin.com/in/victor-diez-cuesta/">
+<img src="https://img.shields.io/badge/LinkedIn-V%C3%ADctor%20D%C3%ADez%20Cuesta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>**
 
 </div>
 
@@ -230,22 +235,22 @@ My Common Core has been a progression from **low-level programming to higher-lev
 │       React · TypeScript · Node.js          │
 │             PostgreSQL · APIs               │
 └──────────────────────┬───────────────────────┘
-                       │
+            │
 ┌──────────────────────▼───────────────────────┐
 │                  NETWORKING                  │
 │          TCP/IP · Sockets · Protocols       │
 └──────────────────────┬───────────────────────┘
-                       │
+            │
 ┌──────────────────────▼───────────────────────┐
 │                   GRAPHICS                  │
 │       OpenGL · GLSL · Shaders · 3D         │
 └──────────────────────┬───────────────────────┘
-                       │
+            │
 ┌──────────────────────▼───────────────────────┐
 │                    C++                      │
 │       OOP · STL · Templates · RAII         │
 └──────────────────────┬───────────────────────┘
-                       │
+            │
 ┌──────────────────────▼───────────────────────┐
 │                 SYSTEMS                    │
 │       C · Unix · Processes · Memory        │
