@@ -299,11 +299,10 @@ Configuring systems, services, containers and application infrastructure.
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="170" alt="GitHub Stats"/> 
 <img src="./profile/top-langs.svg" height="170" alt="Top Languages"/>
-
 <br/><br/>
-
+<img src="./profile/stats.svg" height="170" alt="GitHub Stats"/> 
+<br/><br/>
 <img src="https://streak-stats.demolab.com?user=Victordc239&theme=github-dark-blue&hide_border=true" />
 
 </div>
