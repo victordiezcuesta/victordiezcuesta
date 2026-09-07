@@ -20,7 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Victordc239&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=2563eb
+          options: username=victordiezcuesta&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=2563eb
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Victordc239&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&langs_count=6
+          options: username=victordiezcuesta&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&langs_count=6
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
